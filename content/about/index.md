@@ -17,7 +17,7 @@ skills:
 
 🎓 Master's in CES at [University Of California, Riverside](https://www.ucr.edu/)
 
-🔧 Software Engineer | BlockConvey
+🔧 Full Stack Software Engineer | BlockConvey
 
 🚀 Passionate about Scalable APIs and Responsive FrontEnd
 
