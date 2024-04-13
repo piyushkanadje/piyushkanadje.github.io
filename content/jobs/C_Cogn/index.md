@@ -13,6 +13,8 @@ url: 'https://www.amdocs.com/'
 
 - Collaborated within agile methodologies to streamline SDLC processes, yielding reduced project timelines and fostering enhanced collaboration among cross-functional teams, driving efficiency and cohesion
 
+- Leveraged Kafka for real-time log aggregation and processing on 2+ servers, significantly decreasing the team’s workload in log analysis
+
 - Evaluated its performance against an established solution within the company. Contributed to enhancing the overall performance and scalability of the solution.
 
 
