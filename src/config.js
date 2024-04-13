@@ -6,7 +6,7 @@ module.exports = {
     'Piyush, Piyush Kanadje, Software Developer, Software Engineer, Programmer, UCR',
   siteUrl: 'https://piyushkanadje.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'G-ZT833Z08LJ',
+  googleAnalyticsID: '',
   googleVerification: '',
   name: 'Piyush Prabhakar Kanadje',
   location: 'University Of California, Riverside ',

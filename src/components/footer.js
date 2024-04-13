@@ -103,10 +103,10 @@ const Footer = () => {
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
           href="https://github.com/piyushkanadje"
-          target="_blank" 
+          target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed By @bchiang7 and Revised by Piyush Kanadje<br></br> 
+            Designed By @PiyushKanadje<br></br> 
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

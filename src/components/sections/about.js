@@ -137,7 +137,7 @@ const About = ({ data }) => {
           </StyledAvatarLink>
         </StyledPic>
       </StyledFlexContainer>
-      <StyledEmailLink href={'https://drive.google.com/file/d/1mokVJfMMnKb9YKavDbafxZARGHY4wM5O/view?usp=sharing'}>View My Resume</StyledEmailLink>
+      <StyledEmailLink href={`/GundamSatyabhamaReddy.pdf`}>View My Resume</StyledEmailLink>
     </StyledContainer>
   );
 };

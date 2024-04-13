@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 title: 'Software Developer - Full-Stack'
-companyHeading: 'BlockConvey- Full-Stack Software Developer'
+companyHeading: 'BlockConvey'
 company: 'BlockCovey'
 range: 'March 2024 - Present'
 url: 'https://www.blockconvey.com/'
