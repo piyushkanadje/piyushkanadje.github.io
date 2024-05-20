@@ -8,7 +8,7 @@ buttonText: 'Contact Me'
 
 👨‍💻 I am working  as a Software Developer Full Stack at [BlockConvey](https://www.blockconvey.com/).  
 
-I excel as a full-stack developer, crafting dynamic user experiences with React in the front end and powering the back end with Python's versatility.
+I excel as a full-stack developer, crafting dynamic user experiences with React in the front end and powering the back end with Java and Python's versatility.
 
 I'm actively seeking a full-time role where I can contribute my skills in coding and finding efficient solutions.
 
