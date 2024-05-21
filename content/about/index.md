@@ -5,13 +5,13 @@ skills:
   - Python
   - Java
   - JavaScript
+  - Spring Boot
   - Flask 
   - React
   - Fast API
   - Google Cloud
   - Jenkins (CI/CD)
-  - Kubernetes 
-  - Docker
+  - Kubernetes & Docker
   - SQL
 ---
 
