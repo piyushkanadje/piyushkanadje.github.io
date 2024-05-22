@@ -7,7 +7,7 @@ range: 'June 2023 - Sepetember 2023'
 url: ''
 ---
 
-- Successfully implemented CI/CD pipelines for Next.js projects, streamlining deployments and reducing deployment times by 35%, thereby significantly enhancing project agility and efficiency.
+- Streamlined deployments by performing CI/CD pipelines using Jenkins and GitHub CI, decreasing deployment times by 35%, and improving project agility.
 
 - Designed and developed over 10 custom React hooks to encapsulate shared stateful logic, substantially boosting code reusability across different components and projects.
 
