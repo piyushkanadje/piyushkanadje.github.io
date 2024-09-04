@@ -1,8 +1,8 @@
 ---
 date: '2024-03-01'
-title: 'Software Developer - Full-Stack'
-companyHeading: 'BlockConvey- Full-Stack Software Developer'
-company: 'BlockCovey'
+title: 'Software Development Engineer - Full-Stack'
+companyHeading: 'Block Convey- Software Development Engineer - Full-Stack'
+company: 'Block Covey'
 range: 'March 2024 - Present'
 url: 'https://www.blockconvey.com/'
 ---

@@ -106,10 +106,10 @@ const Footer = () => {
           target="_blank" 
           rel="nofollow noopener noreferrer">
           <div>
-            Designed By @bchiang7 and Revised by Piyush Kanadje<br></br> 
+            @Piyush Kanadje<br></br> 
           </div>
 
-          {githubInfo.stars && githubInfo.forks && (
+          {/* {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
                 <FormattedIcon name="Star" />
@@ -120,7 +120,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </StyledGitHubInfo>
-          )}
+          )} */}
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
