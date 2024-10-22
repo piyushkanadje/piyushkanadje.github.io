@@ -7,6 +7,14 @@ range: 'October 2021 - June 2022'
 url: 'https://www.amdocs.com/'
 ---
 
+- Managed the SDLC with Java/Spring Boot, enhancing backend architecture and increasing scalability by 25%.
+
+- Implemented RESTful APIs with Java Spring Boot to handle JSON/XML data, reducing response times by 20% and improving data interoperability.
+
+- Improved system observability by 40% through Apache Kafka integration for log aggregation and monitoring.
+
+- Built and tested reusable Python Flask REST APIs for AT&T in Amdocs’ billing product, leveraging microservices to reduce API response times by 30%.
+
 - Engineered and rigorously tested over 10 reusable REST APIs with Java and Python, leading to widespread adoption by over 30 clients, showcasing scalability and reliability.
 
 - Ensured maintainability and scalability by following Spring MVC framework & using Microservice architecture with Spring Boot based service.

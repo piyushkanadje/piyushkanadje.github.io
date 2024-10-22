@@ -10,7 +10,7 @@ tech:
   - Next.js
 
 
-company: 'Texas A&M University'
+company: 'Personal'
 showInProjects: false
 ---
 

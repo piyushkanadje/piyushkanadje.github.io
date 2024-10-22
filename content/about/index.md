@@ -7,12 +7,14 @@ skills:
   - JavaScript
   - Spring Boot
   - Flask 
+  - Django
   - React
   - Fast API
   - Google Cloud
+  - Amazon Web Services
   - Jenkins (CI/CD)
   - Kubernetes & Docker
-  - SQL
+  - SQL/NoSQL
 ---
 
 🎓 Master's in CES at [University Of California, Riverside](https://www.ucr.edu/)
