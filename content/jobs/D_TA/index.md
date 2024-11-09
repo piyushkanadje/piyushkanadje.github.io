@@ -6,7 +6,7 @@ company: 'Aasa Technologies'
 range: 'August 2020 — September 2021'
 url: 'https://aasa.tech/'
 ---
-- Engineered frontend and backend components using React and Python for an MVC car maintenance booking system, resulting in an enriched user experience. This initiative facilitated the tracking of daily sales amounting to $700, showcasing the system's effectiveness and impact.
+- Leveraged React, Flask, and PostgreSQL to develop an appointment management software, streamlining scheduling and tracking, resulting in a 30% increase in scheduling efficiency.
 
 - Developed a React UI library featuring reusable components, resulting in a 15% faster feature implementation time, streamlining development processes and boosting productivity.
 
