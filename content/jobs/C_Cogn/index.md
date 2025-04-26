@@ -26,5 +26,3 @@ url: 'https://www.amdocs.com/'
 - Leveraged Kafka for real-time log aggregation and processing on 2+ servers, significantly decreasing the team’s workload in log analysis
 
 - Executed comprehensive unit and integration testing for microservices, achieving 90% code coverage, increasing software reliability and reducing production bugs.
-
-

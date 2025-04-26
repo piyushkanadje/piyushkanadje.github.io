@@ -1,22 +1,24 @@
 ---
-date: '2024-03-01'
-title: 'Software Development Engineer - Full-Stack'
-companyHeading: 'Block Convey- Software Development Engineer - Full-Stack'
-company: 'Block Covey'
-range: 'March 2024 - January 2024'
-url: 'https://www.blockconvey.com/'
+date: '2025-01-01'
+title: 'Backend Software Enguneer'
+companyHeading: 'Fetch Rewards - Backend Engineer'
+company: 'Fetch Rewards'
+range: 'January 2025 — Present'
+url: 'https://fetch.com/'
 ---
+- Designed and implemented an asynchronous webhook processing architecture leveraging AWS SQS/DLQ,
+achieving 10,000+ req/min throughput and improved fault tolerance.
 
-- Building High-performance Spring Boot and Flask APIs to manage over 6000 requests per minute, integrating private IPFS on Google Compute nodes for distributed storage, and ensuring immutable record-keeping by adding each API request to the Blockchain! 
+- Engineered a solution to optimize API communication, migrating from JSON to Protobuf to minimize data
+overhead and improve response times.
 
-- Integrated Redis cache to enhance API performance, reducing response times from 250ms to 5ms.
+- Developed and deployed 2+ high-performance RESTful APIS for Carousel and Globalization (Multi
+Language support) services in Golang, ensuring low-latency responses and scalable applications.
 
-- Optimized data storage by designing efficient data models and indexing in SQL and NoSQL databases, increasing data retrieval speed by 30%.
+- Optimised data retrieval for mobile applications by implementing data aggregation and transformation
+within the Backend For Frontend, resulting in reduced load times and improved user experience.
 
-- Implemented Restful Web Services & GraphQL APIs in Spring Boot for consuming and producing JSON/XML Data from End points, resulting in a 25% reduction in response time 
+- Implemented CI/CD pipelines in Bitbucket & Github to automate the software build, test, and deployment.
 
-- Automated the creation and storage of JSON metadata files in Google Cloud Storage, keyed by unique IPNS identifiers for easy retrieval.
-
-- Integrated blockchain transaction tracking, capturing and storing the hash of NFT minting transactions for auditability and verification.
-
-- Deployed and managed scalable cloud applications and databases on GCP and AWS.
+- Improved testing efficiency by 40% with table-driven unit tests and reduced production bugs by 30% via
+integration testing.

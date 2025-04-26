@@ -1,18 +1,22 @@
 ---
-date: '2023-06-18'
-title: 'Software Developer (Open Source)'
-companyHeading: 'Deep Forest Science - Software Developer'
-company: 'Deep Forest Science'
-range: 'June 2023 - Sepetember 2023'
-url: ''
+date: '2024-03-01'
+title: 'Software Development Engineer - Full-Stack'
+companyHeading: 'Block Convey- Software Development Engineer - Full-Stack'
+company: 'Block Covey'
+range: 'March 2024 - January 2024'
+url: 'https://www.blockconvey.com/'
 ---
 
-- Streamlined deployments by performing CI/CD pipelines using Jenkins and GitHub CI, decreasing deployment times by 35%, and improving project agility.
+- Building High-performance Spring Boot and Flask APIs to manage over 6000 requests per minute, integrating private IPFS on Google Compute nodes for distributed storage, and ensuring immutable record-keeping by adding each API request to the Blockchain! 
 
-- Designed and developed over 10 custom React hooks to encapsulate shared stateful logic, substantially boosting code reusability across different components and projects.
+- Integrated Redis cache to enhance API performance, reducing response times from 250ms to 5ms.
 
-- Optimized state management and data flow by leveraging Redux, resulting in a notable 20% increase in site responsiveness and user experience.
+- Optimized data storage by designing efficient data models and indexing in SQL and NoSQL databases, increasing data retrieval speed by 30%.
 
-- Designed and implemented a role-based access control (RBAC) system for APIs using JWT authentication with Python FastAPI, enhancing security and ensuring compliant access to resources.
+- Implemented Restful Web Services & GraphQL APIs in Spring Boot for consuming and producing JSON/XML Data from End points, resulting in a 25% reduction in response time 
 
-- Developed automated CI/CD pipelines using GitHub Actions, reducing deployment times by 50%.
+- Automated the creation and storage of JSON metadata files in Google Cloud Storage, keyed by unique IPNS identifiers for easy retrieval.
+
+- Integrated blockchain transaction tracking, capturing and storing the hash of NFT minting transactions for auditability and verification.
+
+- Deployed and managed scalable cloud applications and databases on GCP and AWS.
