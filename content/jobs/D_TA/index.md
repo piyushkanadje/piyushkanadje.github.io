@@ -1,9 +1,9 @@
 ---
-date: '2021-10-01'
+date: '2020-10-01'
 title: 'Software Engineer'
 companyHeading: 'Amdocs- Software Engineer'
 company: 'Amdocs'
-range: 'October 2021 - June 2022'
+range: 'October 2020 - June 2022'
 url: 'https://www.amdocs.com/'
 ---
 

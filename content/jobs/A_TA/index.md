@@ -6,19 +6,14 @@ company: 'Fetch Rewards'
 range: 'January 2025 — Present'
 url: 'https://fetch.com/'
 ---
-- Designed and implemented an asynchronous webhook processing architecture leveraging AWS SQS/DLQ,
-achieving 10,000+ req/min throughput and improved fault tolerance.
+- Engineered and maintained a core Go microservice for high-throughput, low-latency webhook processing, along with a suite of related supporting microservices within the event-driven architecture
 
-- Engineered a solution to optimize API communication, migrating from JSON to Protobuf to minimize data
-overhead and improve response times.
+- Developed and implemented api for Backend for Frontend (BFF) service to aggregate data from three distinct backend services, streamlining data access for client applications.
 
-- Developed and deployed 2+ high-performance RESTful APIS for Carousel and Globalization (Multi
-Language support) services in Golang, ensuring low-latency responses and scalable applications.
+- Engineered and launched (3+) high-performance RESTful APIs in Golang for Carousel service and App Metadata service, delivering low-latency responses and ensuring application scalability.
 
-- Optimised data retrieval for mobile applications by implementing data aggregation and transformation
-within the Backend For Frontend, resulting in reduced load times and improved user experience.
+- Proactively addressed and resolved over 60 technical issues (averaging 1.1 days to resolution) while fostering a quality-driven, high-velocity team environment through consistent code reviews and QA collaboration to meet aggressive deadlines.
 
-- Implemented CI/CD pipelines in Bitbucket & Github to automate the software build, test, and deployment.
+- Optimized API performance by transitioning serialization from JSON to Protobuf (protoc) alongside gRPC, resulting in a 35% smaller payload and 20% lower latency.
 
-- Improved testing efficiency by 40% with table-driven unit tests and reduced production bugs by 30% via
-integration testing.
+- Spearheaded the integration of multiple microservices with a new central feature flag service, enabling robust A/B testing and controlled phased rollouts.

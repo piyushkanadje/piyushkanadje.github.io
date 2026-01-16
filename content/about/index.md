@@ -2,6 +2,8 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
+  - Go
+  - TypeScript
   - Python
   - Java
   - JavaScript
@@ -15,13 +17,14 @@ skills:
   - Jenkins (CI/CD)
   - Kubernetes & Docker
   - SQL/NoSQL
+  - gRPC
 ---
 
 🎓 Master's in CES at [University Of California, Riverside](https://www.ucr.edu/)
 
-🔧 Software Development Engineer - Full Stack | Block Convey
+🔧 Software Development Engineer - Full Stack | Tilled In
 
-🚀 Passionate about Scalable APIs and Responsive Frontend
+🚀 Passionate about Scalable APIs 
 
 🤝 Code Whisperer | Bug Hunter | Collaborator
 
