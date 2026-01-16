@@ -22,9 +22,9 @@ skills:
 
 🎓 Master's in CES at [University Of California, Riverside](https://www.ucr.edu/)
 
-🔧 Software Development Engineer - Full Stack | Tilled In
+🔧 Software Engineer at Tilled
 
-🚀 Passionate about Scalable APIs 
+🚀 Passionate about Scalable APIs
 
 🤝 Code Whisperer | Bug Hunter | Collaborator
 
